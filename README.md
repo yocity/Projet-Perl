@@ -3,7 +3,7 @@
 
 # Analyseur de logs Apache en Perl
 
-Cet code permet d'analyser en temps réel les fichiers de logs Apache (access.log et error.log) pour fournir des informations sur les requêtes réussies, les échecs de connexion et les messages d'erreur spécifiques.
+Ce code permet d'analyser en temps réel les fichiers de logs Apache (access.log et error.log) afin de fournir des informations sur les requêtes réussies, les échecs de connexion et les messages d'erreur spécifiques, le tout présenté dans une interface graphique simplifiée.
 
 ## Fonctionnalités
 
@@ -28,7 +28,7 @@ Cet code permet d'analyser en temps réel les fichiers de logs Apache (access.lo
 ## Exigences
 
 - Perl 5.x ou supérieur
-- Modules Perl : `File::Tail`
+- Modules Perl : `File::Tail`, `GD::Graph`, `GD::Graph::bars`, `GD::Graph::Data`
 
 ## Auteur
 
