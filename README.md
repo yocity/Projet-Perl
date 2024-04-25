@@ -3,7 +3,7 @@
 
 # Analyseur de logs Apache en Perl
 
-Cet outil permet d'analyser en temps réel les fichiers de logs Apache (access.log et error.log) pour fournir des informations sur les requêtes réussies, les échecs de connexion et les messages d'erreur spécifiques.
+Cet code permet d'analyser en temps réel les fichiers de logs Apache (access.log et error.log) pour fournir des informations sur les requêtes réussies, les échecs de connexion et les messages d'erreur spécifiques.
 
 ## Fonctionnalités
 
@@ -15,15 +15,15 @@ Cet outil permet d'analyser en temps réel les fichiers de logs Apache (access.l
 ## Utilisation
 
 1. Assurez-vous d'avoir Perl installé sur votre système.
-2. Copiez les fichiers `analyseur_logs.pl` et `README.md` dans le répertoire de votre choix.
+2. Copiez les fichiers `ProjetPerl.pl` et `README.md` dans le répertoire de votre choix.
 3. Assurez-vous d'avoir les autorisations nécessaires pour lire les fichiers de logs Apache.
 4. Exécutez le script Perl en utilisant la commande suivante :
 
     ```
-    ./analyseur_logs.pl
+    perl ProjetPerl.pl
     ```
 
-5. L'outil commencera à surveiller en temps réel les fichiers de logs Apache et affichera les résultats de l'analyse à mesure que de nouvelles lignes sont ajoutées aux fichiers de logs.
+5. Le code commencera à surveiller en temps réel les fichiers de logs Apache et affichera les résultats de l'analyse à mesure que de nouvelles lignes sont ajoutées aux fichiers de logs.
 
 ## Exigences
 
@@ -32,8 +32,4 @@ Cet outil permet d'analyser en temps réel les fichiers de logs Apache (access.l
 
 ## Auteur
 
-Ce projet a été développé par [Votre Nom].
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet a été développé par YOCOLI Konan Jean Epiphane, AHONZO Jean-Phillipes, TOUALO Bi Mohamed, N'GOUANDI Evra.
