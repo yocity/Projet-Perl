@@ -32,4 +32,4 @@ Ce code permet d'analyser en temps réel les fichiers de logs Apache (access.log
 
 ## Auteur
 
-Ce projet a été développé par YOCOLI Konan Jean Epiphane, AHONZO Jean-Phillipes, TOUALO Bi Mohamed, N'GOUANDI Evra.
+Ce projet a été développé par YOCOLI Konan Jean Epiphane, AHONZO Jean-Phillippe, TOALO Bi Sidi Mohamed, N'GOUANDI Evrard.
